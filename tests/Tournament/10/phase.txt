@@ -1,0 +1,3 @@
+ID:1;Course:Torrevieja–Torrevieja;Distance:13.4;Type:Individual_Time_Trial;
+ID:2;Course:Benidorm–Calp;Distance:199.6;Type:Hilly_Stage;
+ID:3;Course:Ibi–Alicante;Distance:188;Type:Flat_Stage;

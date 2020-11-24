@@ -1,0 +1,5 @@
+Name: Vuelta a Espana 2019, Green: 1000.00, Blue: 1000000.00, Red: 1000.00
+Winner of Green: Name: Jonas, Surname: Koch, Age: 20 Cyclist Team:ID: 17 Name: CCC Team Short_Name: CCC Sponsors:Giant 
+Winner of Blue: Name: Alejandro, Surname: Valverde, Age: 28 Cyclist Team:ID: 1 Name: Movistar Short_Name: MOV Sponsors:Canyon 
+Winner of Red: Name: Mark, Surname: Padun, Age: 22 Cyclist Team:ID: 2 Name: Bahrain Merida Short_Name: TBM Sponsors:Merida 
+Status: Done
